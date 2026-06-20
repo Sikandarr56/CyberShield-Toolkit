@@ -1,0 +1,10 @@
+# CyberShield Toolkit
+# Requirements File
+#
+# External Dependencies:
+#   None
+#
+# Python Version:
+#   Python 3.9 or higher
+#
+# No third-party packages are required to run this project.
