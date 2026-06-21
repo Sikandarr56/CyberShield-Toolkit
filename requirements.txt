@@ -1,10 +1,57 @@
 # CyberShield Toolkit
+
 # Requirements File
+
 #
-# External Dependencies:
-#   None
+
+# Project:
+
+# CyberShield Toolkit
+
 #
+
+# Purpose:
+
+# This file documents the runtime requirements for the project.
+
+#
+
 # Python Version:
-#   Python 3.9 or higher
+
+# Python 3.9 or higher
+
 #
-# No third-party packages are required to run this project.
+
+# External Dependencies:
+
+# None
+
+#
+
+# Standard Library Modules Used:
+
+# - os
+
+# - sys
+
+# - hashlib
+
+# - json
+
+# - datetime
+
+# - pathlib
+
+#
+
+# Installation:
+
+# No additional packages are required.
+
+# Ensure Python 3.9+ is installed and run the project directly.
+
+#
+
+# Last Updated:
+
+# June 2026
